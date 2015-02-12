@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.gvignesh.java&apos; to &apos;org.lfrank.java&apos;&#x0D;&#x0A;- Original project: &apos;CredOperations&apos;&#x0D;&#x0A;- Original element: &apos;CredOperations/src/org.gvignesh.java&apos;&#x0D;&#x0A;- Renamed element: &apos;CredOperations/src/org.lfrank.java&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.gvignesh.java&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;org.gvignesh.java" name="org.lfrank.java" qualified="false" references="true" stamp="1423686129153" textual="false" version="1.0"/>
+</session>
